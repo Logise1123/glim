@@ -1,1 +1,1 @@
-['init', 'halt', 'go_x', 'go_y', 'go', 'goto']
+["init", "halt", "go_x", "go_y", "go", "goto"]
